@@ -3,7 +3,7 @@
 # Are We Ready for Vision-Centric Driving Streaming Perception? The ASAP Benchmark
 </div>
 
-- **Are We Ready for Vision-Centric Driving Streaming Perception? The ASAP Benchmark** [Paper in arXiv](TODO)
+- **Are We Ready for Vision-Centric Driving Streaming Perception? The ASAP Benchmark** [Paper in arXiv](https://arxiv.org/pdf/2212.08914.pdf)
 
 - **The 12Hz nuScenes-H dataset**
 <div align="center">  
@@ -38,7 +38,11 @@ In recent years, vision-centric perception has flourished in various autonomous 
 If this work is helpful for your research, please consider citing the following BibTeX entry.
 
 ```
-@article{todo
+@article{wang2022asap,
+  title={Are We Ready for Vision-Centric Driving Streaming Perception? The ASAP Benchmark},
+  author={Wang, Xiaofeng and Zhu, Zheng and Zhang, Yunpeng and Huang, Guan and Ye, Yun and Xu, Wenbo and Chen, Ziwei and Wang, Xingang}
+  journal={arXiv preprint arXiv:2212.08914},
+  year={2022}
 }
 ```
 
